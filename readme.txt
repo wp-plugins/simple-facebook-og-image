@@ -33,6 +33,9 @@ The plugin will aslo cache the image (if there is a permanent cache plugin insta
 
 == Changelog ==
 
+= 1.1.1 =
+Add Twitter card image and general <link> tag for more compatibilities
+
 = 1.1.0 =
 Add preview box in admin edit post area
 
